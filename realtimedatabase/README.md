@@ -35,9 +35,4 @@
     `import sys`
     `!{sys.executable} -m pip install python-dotenv pyrebase`
 
-* Variável de ambiente:
-No mesmo diretório onde está sendo executado o notebook, crie um arquivo chamado .env, onde será colocada as credenciais obtidas do passo anterior. O conteúdo do arquivo deve ser da seguinte forma:
-
-`apiKey="oconteudodeapikeyaqui" authDomain="oconteudodeauthaqui" databaseURL="oconteudodedatabaseaqui" projectId="oconteudodeprojectidaqui" storageBucket="oconteudodestoragebucketaqui" messagingSenderId="oconteudomessagingaqui" appId="oconteudodeappidaqui" measurementId="oconteudodemeasurementidaqui"`
-
-chave="valor" (obtido de var firebaseConfig)
+ - No mesmo diretório onde está sendo executado o notebook, deve conter o arquivo .env configurado de acordo como mencionado na página inicial deste repositório
