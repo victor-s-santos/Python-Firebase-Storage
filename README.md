@@ -3,9 +3,9 @@
 <table>
    <tr>
       <p align="center">
-        <a href="https://github.com/Beevi-Cognitive/PythonFirebase/tree/master/authentication">Autenticação(Authentication)</a> •
-        <a href="https://github.com/Beevi-Cognitive/PythonFirebase/tree/master/realtimedatabase">Banco de Dados RealTime(RealTime DataBase)</a> •
-        <a href="https://github.com/Beevi-Cognitive/PythonFirebase/tree/master/storage">Armazenamento(Storage)</a> •
+        <a href="https://github.com/victor-s-santos/PythonFirebase/tree/master/authentication">Autenticação(Authentication)</a> •
+        <a href="https://github.com/victor-s-santos/PythonFirebase/tree/master/realtimedatabase">Banco de Dados RealTime(RealTime DataBase)</a> •
+        <a href="https://github.com/victor-s-santos/PythonFirebase/tree/master/storage">Armazenamento(Storage)</a> •
          <a href="#sobre">Sobre</a> •
          <a href="#credenciais">Credenciais</a> •
       </p>
